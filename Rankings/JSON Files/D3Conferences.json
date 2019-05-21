@@ -1,0 +1,2512 @@
+[
+ {
+   "ID": 1,
+   "School": "Adrian College",
+   "Nickname": "Bulldogs",
+   "City": "Adrian",
+   "State": "Michigan",
+   "Region": "Great Lakes",
+   "Conference": "Michigan Intercollegiate Athletic Assoc",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 2,
+   "School": "Albion College",
+   "Nickname": "Britons",
+   "City": "Albion",
+   "State": "Michigan",
+   "Region": "Great Lakes",
+   "Conference": "Michigan Intercollegiate Athletic Assoc",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 3,
+   "School": "Albright College",
+   "Nickname": "Lions",
+   "City": "Reading",
+   "State": "Pennsylvania",
+   "Region": "North East",
+   "Conference": "Middle Atlantic States Athletic Corporation",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 4,
+   "School": "Alfred University",
+   "Nickname": "Saxons",
+   "City": "Alfred",
+   "State": "New York",
+   "Region": "North East",
+   "Conference": "Empire Eight",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 5,
+   "School": "Alfred State College",
+   "Nickname": "Pioneers",
+   "City": "Alfred",
+   "State": "New York",
+   "Region": "North East",
+   "Conference": "Division III Independents",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 6,
+   "School": "Allegheny College",
+   "Nickname": "Gators",
+   "City": "Meadville",
+   "State": "Pennsylvania",
+   "Region": "North East",
+   "Conference": "North Coast Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 7,
+   "School": "Alma College",
+   "Nickname": "Scots",
+   "City": "Alma",
+   "State": "Michigan",
+   "Region": "Great Lakes",
+   "Conference": "Michigan Intercollegiate Athletic Assoc",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 8,
+   "School": "Alvernia University",
+   "Nickname": "Golden Wolves",
+   "City": "Reading",
+   "State": "Pennsylvania",
+   "Region": "North East",
+   "Conference": "Commonwealth Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 9,
+   "School": "Amherst College",
+   "Nickname": "Mammoths",
+   "City": "Amherst",
+   "State": "Massachusetts",
+   "Region": "New England",
+   "Conference": "New England Small College Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 10,
+   "School": "Anderson University - Indiana",
+   "Nickname": "Ravens",
+   "City": "Anderson",
+   "State": "Indiana",
+   "Region": "Great Lakes",
+   "Conference": "Heartland Collegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 11,
+   "School": "Anna Maria College",
+   "Nickname": "Amcats",
+   "City": "Paxton",
+   "State": "Massachusetts",
+   "Region": "New England",
+   "Conference": "Eastern Collegiate Football Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 12,
+   "School": "The Apprentice School",
+   "Nickname": "Builders",
+   "City": "Newport News",
+   "State": "Virginia",
+   "Region": "North East",
+   "Conference": "Eastern Metro Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 13,
+   "School": "Augsburg University",
+   "Nickname": "Auggies",
+   "City": "Minneapolis",
+   "State": "Minnesota",
+   "Region": "Mid West",
+   "Conference": "Minnesota Intercollegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 14,
+   "School": "Augustana College - Illinois",
+   "Nickname": "Vikings",
+   "City": "Rock Island",
+   "State": "Illinois",
+   "Region": "Great Lakes",
+   "Conference": "College Conference of Illinois and Wisc",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 15,
+   "School": "Aurora University",
+   "Nickname": "Spartans",
+   "City": "Aurora",
+   "State": "Illinois",
+   "Region": "Great Lakes",
+   "Conference": "Northern Athletics Collegiate Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 16,
+   "School": "Austin College",
+   "Nickname": "Kangaroos",
+   "City": "Sherman",
+   "State": "Texas",
+   "Region": "Mid South",
+   "Conference": "Southern Collegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 17,
+   "School": "Averett University",
+   "Nickname": "Cougars",
+   "City": "Danville",
+   "State": "Virginia",
+   "Region": "Mid East",
+   "Conference": "USA South Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 18,
+   "School": "Baldwin Wallace University",
+   "Nickname": "Yellow Jackets",
+   "City": "Berea",
+   "State": "Ohio",
+   "Region": "Great Lakes",
+   "Conference": "Ohio Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 19,
+   "School": "Bates College",
+   "Nickname": "Bobcats",
+   "City": "Lewiston",
+   "State": "Maine",
+   "Region": "New England",
+   "Conference": "New England Small College Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 20,
+   "School": "Becker College",
+   "Nickname": "Hawks",
+   "City": "Worcester",
+   "State": "Massachusetts",
+   "Region": "New England",
+   "Conference": "Eastern Collegiate Football Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 21,
+   "School": "Belhaven University",
+   "Nickname": "Blazers",
+   "City": "Jackson",
+   "State": "Mississippi",
+   "Region": "Mid South",
+   "Conference": "American Southwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 22,
+   "School": "Beloit College",
+   "Nickname": "Buccaneers",
+   "City": "Beloit",
+   "State": "Wisconsin",
+   "Region": "Great Lakes",
+   "Conference": "Midwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 23,
+   "School": "Benedictine University",
+   "Nickname": "Eagles",
+   "City": "Lisle",
+   "State": "Illinois",
+   "Region": "Great Lakes",
+   "Conference": "Northern Athletics Collegiate Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 24,
+   "School": "Berry College",
+   "Nickname": "Vikings",
+   "City": "Mount Berry",
+   "State": "Georgia",
+   "Region": "South East",
+   "Conference": "Southern Athletic Association",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 25,
+   "School": "Bethany College - West Virginia",
+   "Nickname": "Bison",
+   "City": "Bethany",
+   "State": "West Virginia",
+   "Region": "Mid East",
+   "Conference": "Presidents' Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 26,
+   "School": "Bethel University - Minnesota",
+   "Nickname": "Royals",
+   "City": "Saint Paul",
+   "State": "Minnesota",
+   "Region": "Mid West",
+   "Conference": "Minnesota Intercollegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 27,
+   "School": "Birmingham-Southern College",
+   "Nickname": "Panthers",
+   "City": "Birmingham",
+   "State": "Alabama",
+   "Region": "South East",
+   "Conference": "Southern Athletic Association",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 28,
+   "School": "Bluffton University",
+   "Nickname": "Beavers",
+   "City": "Bluffton",
+   "State": "Ohio",
+   "Region": "Great Lakes",
+   "Conference": "Heartland Collegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 29,
+   "School": "Bowdoin College",
+   "Nickname": "Polar Bears",
+   "City": "Brunswick",
+   "State": "Maine",
+   "Region": "New England",
+   "Conference": "New England Small College Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 30,
+   "School": "Brevard College",
+   "Nickname": "Tornados",
+   "City": "Brevard",
+   "State": "North Carolina",
+   "Region": "Mid East",
+   "Conference": "South Atlantic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 31,
+   "School": "Bridgewater State University",
+   "Nickname": "Bears",
+   "City": "Bridgewater",
+   "State": "Massachusetts",
+   "Region": "New England",
+   "Conference": "New England Football Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 32,
+   "School": "Bridgewater College",
+   "Nickname": "Eagles",
+   "City": "Bridgewater",
+   "State": "Virginia",
+   "Region": "Mid East",
+   "Conference": "Old Dominion Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 33,
+   "School": "SUNY College at Brockport",
+   "Nickname": "Golden Eagles",
+   "City": "Brockport",
+   "State": "New York",
+   "Region": "North East",
+   "Conference": "Empire Eight",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 34,
+   "School": "Buena Vista University",
+   "Nickname": "Beavers",
+   "City": "Storm Lake",
+   "State": "Iowa",
+   "Region": "Mid West",
+   "Conference": "Iowa Intercollegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 35,
+   "School": "SUNY Buffalo State College",
+   "Nickname": "Bengals",
+   "City": "Buffalo",
+   "State": "New York",
+   "Region": "North East",
+   "Conference": "Empire Eight",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 36,
+   "School": "California Lutheran University",
+   "Nickname": "Kingsmen",
+   "City": "Thousand Oaks",
+   "State": "California",
+   "Region": "West Coast",
+   "Conference": "Southern California Intercoll Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 37,
+   "School": "Capital University",
+   "Nickname": "Crusaders",
+   "City": "Columbus",
+   "State": "Ohio",
+   "Region": "Great Lakes",
+   "Conference": "Ohio Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 38,
+   "School": "Carleton College",
+   "Nickname": "Knights",
+   "City": "Northfield",
+   "State": "Minnesota",
+   "Region": "Mid West",
+   "Conference": "Midwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 39,
+   "School": "Carnegie Mellon University",
+   "Nickname": "Tartans",
+   "City": "Pittsburgh",
+   "State": "Pennsylvania",
+   "Region": "North East",
+   "Conference": "University Athletic Association",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 40,
+   "School": "Carroll University",
+   "Nickname": "Pioneers",
+   "City": "Waukesha",
+   "State": "Wisconsin",
+   "Region": "Great Lakes",
+   "Conference": "College Conference of Illinois and Wisc",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 41,
+   "School": "Carthage College",
+   "Nickname": "Red Men",
+   "City": "Kenosha",
+   "State": "Wisconsin",
+   "Region": "Great Lakes",
+   "Conference": "College Conference of Illinois and Wisc",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 42,
+   "School": "Case Western Reserve University",
+   "Nickname": "Spartans",
+   "City": "Cleveland",
+   "State": "Ohio",
+   "Region": "Great Lakes",
+   "Conference": "Presidents' Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 43,
+   "School": "Castleton University",
+   "Nickname": "Spartans",
+   "City": "Castleton",
+   "State": "Vermont",
+   "Region": "New England",
+   "Conference": "Eastern Collegiate Football Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 44,
+   "School": "Catholic University of America",
+   "Nickname": "Cardinals",
+   "City": "Washington",
+   "State": "District of Columbia",
+   "Region": "North East",
+   "Conference": "Old Dominion Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 45,
+   "School": "Central College",
+   "Nickname": "Dutch",
+   "City": "Pella",
+   "State": "Iowa",
+   "Region": "Mid West",
+   "Conference": "Iowa Intercollegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 46,
+   "School": "Centre College",
+   "Nickname": "Colonels",
+   "City": "Danville",
+   "State": "Kentucky",
+   "Region": "Mid East",
+   "Conference": "Southern Athletic Association",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 47,
+   "School": "Chapman University",
+   "Nickname": "Panthers",
+   "City": "Orange",
+   "State": "California",
+   "Region": "West Coast",
+   "Conference": "Southern California Intercoll Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 48,
+   "School": "University of Chicago",
+   "Nickname": "Maroons",
+   "City": "Chicago",
+   "State": "Illinois",
+   "Region": "Great Lakes",
+   "Conference": "South Atlantic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 49,
+   "School": "Christopher Newport University",
+   "Nickname": "Captains",
+   "City": "Newport News",
+   "State": "Virginia",
+   "Region": "Mid East",
+   "Conference": "Capital Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 50,
+   "School": "Claremont-Mudd-Scripps Colleges",
+   "Nickname": "Stags",
+   "City": "Claremont",
+   "State": "California",
+   "Region": "West Coast",
+   "Conference": "Southern California Intercoll Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 51,
+   "School": "United States Coast Guard Academy",
+   "Nickname": "Bears",
+   "City": "New London",
+   "State": "Connecticut",
+   "Region": "New England",
+   "Conference": "New England Football Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 52,
+   "School": "Coe College",
+   "Nickname": "Kohawks",
+   "City": "Cedar Rapids",
+   "State": "Iowa",
+   "Region": "Mid West",
+   "Conference": "Iowa Intercollegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 53,
+   "School": "Colby College",
+   "Nickname": "Mules",
+   "City": "Waterville",
+   "State": "Maine",
+   "Region": "New England",
+   "Conference": "New England Small College Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 54,
+   "School": "The College of New Jersey",
+   "Nickname": "Lions",
+   "City": "Ewing",
+   "State": "New Jersey",
+   "Region": "North East",
+   "Conference": "New Jersey Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 55,
+   "School": "Concordia University - Chicago",
+   "Nickname": "Cougars",
+   "City": "River Forest",
+   "State": "Illinois",
+   "Region": "Great Lakes",
+   "Conference": "Northern Athletics Collegiate Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 56,
+   "School": "Concordia College - Minnesota",
+   "Nickname": "Cobbers",
+   "City": "Moorhead",
+   "State": "Minnesota",
+   "Region": "Mid West",
+   "Conference": "Minnesota Intercollegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 57,
+   "School": "Concordia University - Wisconsin",
+   "Nickname": "Falcons",
+   "City": "Mequon",
+   "State": "Wisconsin",
+   "Region": "Great Lakes",
+   "Conference": "Northern Athletics Collegiate Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 58,
+   "School": "Cornell College",
+   "Nickname": "Rams",
+   "City": "Mount Vernon",
+   "State": "Iowa",
+   "Region": "Mid West",
+   "Conference": "Midwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 59,
+   "School": "SUNY Cortland",
+   "Nickname": "Red Dragons",
+   "City": "Cortland",
+   "State": "New York",
+   "Region": "North East",
+   "Conference": "State University of New York Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 60,
+   "School": "Crown College",
+   "Nickname": "Storm",
+   "City": "Saint Bonifacius",
+   "State": "Minnesota",
+   "Region": "Mid West",
+   "Conference": "Upper Midwest Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 61,
+   "School": "Curry College",
+   "Nickname": "Colonels",
+   "City": "Milton",
+   "State": "Massachusetts",
+   "Region": "New England",
+   "Conference": "New England Football Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 62,
+   "School": "Dean College",
+   "Nickname": "Bulldogs",
+   "City": "Franklin",
+   "State": "Massachusetts",
+   "Region": "New England",
+   "Conference": "Division III Independents",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 63,
+   "School": "Defiance College",
+   "Nickname": "Yellow Jackets",
+   "City": "Defiance",
+   "State": "Ohio",
+   "Region": "Great Lakes",
+   "Conference": "Heartland Collegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 64,
+   "School": "Delaware Valley University",
+   "Nickname": "Aggies",
+   "City": "Doylestown",
+   "State": "Pennsylvania",
+   "Region": "North East",
+   "Conference": "Middle Atlantic States Athletic Corporation",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 65,
+   "School": "Denison University",
+   "Nickname": "Big Red",
+   "City": "Granville",
+   "State": "Ohio",
+   "Region": "Great Lakes",
+   "Conference": "North Coast Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 66,
+   "School": "DePauw University",
+   "Nickname": "Tigers",
+   "City": "Greencastle",
+   "State": "Indiana",
+   "Region": "Great Lakes",
+   "Conference": "North Coast Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 67,
+   "School": "Dickinson College",
+   "Nickname": "Red Devils",
+   "City": "Carlisle",
+   "State": "Pennsylvania",
+   "Region": "North East",
+   "Conference": "Centennial Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 68,
+   "School": "University of Dubuque",
+   "Nickname": "Spartans",
+   "City": "Dubuque",
+   "State": "Iowa",
+   "Region": "Mid West",
+   "Conference": "Iowa Intercollegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 69,
+   "School": "East Texas Baptist University",
+   "Nickname": "Tigers",
+   "City": "Marshall",
+   "State": "Texas",
+   "Region": "Mid South",
+   "Conference": "American Southwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 70,
+   "School": "Earlham College",
+   "Nickname": "Quakers",
+   "City": "Richmond",
+   "State": "Indiana",
+   "Region": "Great Lakes",
+   "Conference": "Heartland Collegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 71,
+   "School": "Elmhurst College",
+   "Nickname": "Bluejays",
+   "City": "Elmhurst",
+   "State": "Illinois",
+   "Region": "Great Lakes",
+   "Conference": "College Conference of Illinois and Wisc",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 72,
+   "School": "Emory & Henry College",
+   "Nickname": "Wasps",
+   "City": "Emory",
+   "State": "Virginia",
+   "Region": "Mid East",
+   "Conference": "Old Dominion Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 73,
+   "School": "Endicott College",
+   "Nickname": "Gulls",
+   "City": "Beverly",
+   "State": "Massachusetts",
+   "Region": "New England",
+   "Conference": "New England Football Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 74,
+   "School": "Eureka College",
+   "Nickname": "Red Devils",
+   "City": "Eureka",
+   "State": "Illinois",
+   "Region": "Great Lakes",
+   "Conference": "Upper Midwest Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 75,
+   "School": "Fairleigh Dickinson University - College at Florham",
+   "Nickname": "Devils",
+   "City": "Madison",
+   "State": "New Jersey",
+   "Region": "North East",
+   "Conference": "Middle Atlantic States Athletic Corporation",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 76,
+   "School": "Ferrum College",
+   "Nickname": "Panthers",
+   "City": "Ferrum",
+   "State": "Virginia",
+   "Region": "Mid East",
+   "Conference": "USA South Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 77,
+   "School": "Finlandia University",
+   "Nickname": "Lions",
+   "City": "Hancock",
+   "State": "Michigan",
+   "Region": "Great Lakes",
+   "Conference": "Division III Independents",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 78,
+   "School": "Fitchburg State University",
+   "Nickname": "Falcons",
+   "City": "Fitchburg",
+   "State": "Massachusetts",
+   "Region": "New England",
+   "Conference": "New England Football Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 79,
+   "School": "Framingham State University",
+   "Nickname": "Rams",
+   "City": "Framingham",
+   "State": "Massachusetts",
+   "Region": "New England",
+   "Conference": "Massachusetts State College Athletic Assoc",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 80,
+   "School": "Franklin & Marshall College",
+   "Nickname": "Diplomats",
+   "City": "Lancaster",
+   "State": "Pennsylvania",
+   "Region": "North East",
+   "Conference": "Centennial Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 81,
+   "School": "Franklin College",
+   "Nickname": "Grizzlies",
+   "City": "Franklin",
+   "State": "Indiana",
+   "Region": "Great Lakes",
+   "Conference": "Heartland Collegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 82,
+   "School": "Frostburg State University",
+   "Nickname": "Bobcats",
+   "City": "Frostburg",
+   "State": "Maryland",
+   "Region": "North East",
+   "Conference": "New Jersey Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 83,
+   "School": "Gallaudet University",
+   "Nickname": "Bison",
+   "City": "Washington",
+   "State": "District of Columbia",
+   "Region": "North East",
+   "Conference": "Eastern Collegiate Football Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 84,
+   "School": "Geneva College",
+   "Nickname": "Golden Tornadoes",
+   "City": "Beaver Falls",
+   "State": "Pennsylvania",
+   "Region": "North East",
+   "Conference": "Presidents' Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 85,
+   "School": "George Fox University",
+   "Nickname": "Bruins",
+   "City": "Newberg",
+   "State": "Oregon",
+   "Region": "West Coast",
+   "Conference": "Northwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 86,
+   "School": "Gettysburg College",
+   "Nickname": "Bullets",
+   "City": "Gettysburg",
+   "State": "Pennsylvania",
+   "Region": "North East",
+   "Conference": "Centennial Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 87,
+   "School": "Greensboro College",
+   "Nickname": "Pride",
+   "City": "Greensboro",
+   "State": "North Carolina",
+   "Region": "Mid East",
+   "Conference": "USA South Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 88,
+   "School": "Greenville University",
+   "Nickname": "Panthers",
+   "City": "Greenville",
+   "State": "Illinois",
+   "Region": "Great Lakes",
+   "Conference": "Upper Midwest Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 89,
+   "School": "Grinnell College",
+   "Nickname": "Pioneers",
+   "City": "Grinnell",
+   "State": "Iowa",
+   "Region": "Mid West",
+   "Conference": "Midwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 90,
+   "School": "Grove City College",
+   "Nickname": "Wolverines",
+   "City": "Grove City",
+   "State": "Pennsylvania",
+   "Region": "North East",
+   "Conference": "Presidents' Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 91,
+   "School": "Guilford College",
+   "Nickname": "Quakers",
+   "City": "Greensboro",
+   "State": "North Carolina",
+   "Region": "Mid East",
+   "Conference": "Old Dominion Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 92,
+   "School": "Gustavus Adolphus College",
+   "Nickname": "Gusties",
+   "City": "Saint Peter",
+   "State": "Minnesota",
+   "Region": "Mid West",
+   "Conference": "Minnesota Intercollegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 93,
+   "School": "Hamilton College",
+   "Nickname": "Continentals",
+   "City": "Clinton",
+   "State": "New York",
+   "Region": "North East",
+   "Conference": "New England Small College Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 94,
+   "School": "Hamline University",
+   "Nickname": "Pipers",
+   "City": "Saint Paul",
+   "State": "Minnesota",
+   "Region": "Mid West",
+   "Conference": "Minnesota Intercollegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 95,
+   "School": "Hampden-Sydney College",
+   "Nickname": "Tigers",
+   "City": "Hampden Sydney",
+   "State": "Virginia",
+   "Region": "Mid East",
+   "Conference": "Old Dominion Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 96,
+   "School": "Hanover College",
+   "Nickname": "Panthers",
+   "City": "Hanover",
+   "State": "Indiana",
+   "Region": "Great Lakes",
+   "Conference": "Heartland Collegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 97,
+   "School": "Hardin-Simmons University",
+   "Nickname": "Cowboys",
+   "City": "Abilene",
+   "State": "Texas",
+   "Region": "Mid South",
+   "Conference": "American Southwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 98,
+   "School": "Hartwick College",
+   "Nickname": "Hawks",
+   "City": "Oneonta",
+   "State": "New York",
+   "Region": "North East",
+   "Conference": "Empire Eight",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 99,
+   "School": "Heidelberg University",
+   "Nickname": "Student Princes",
+   "City": "Tiffin",
+   "State": "Ohio",
+   "Region": "Great Lakes",
+   "Conference": "Ohio Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 100,
+   "School": "Hendrix College",
+   "Nickname": "Warriors",
+   "City": "Conway",
+   "State": "Arkansas",
+   "Region": "Mid South",
+   "Conference": "Southern Athletic Association",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 101,
+   "School": "Hiram College",
+   "Nickname": "Terriers",
+   "City": "Hiram",
+   "State": "Ohio",
+   "Region": "Great Lakes",
+   "Conference": "North Coast Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 102,
+   "School": "Hobart & William Smith Colleges",
+   "Nickname": "Statesman",
+   "City": "Geneva",
+   "State": "New York",
+   "Region": "North East",
+   "Conference": "Upstate Collegiate Athletic Association",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 103,
+   "School": "Hope College",
+   "Nickname": "Flying Dutchmen",
+   "City": "Holland",
+   "State": "Michigan",
+   "Region": "Great Lakes",
+   "Conference": "Michigan Intercollegiate Athletic Assoc",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 104,
+   "School": "Howard Payne University",
+   "Nickname": "Yellow Jackets",
+   "City": "Brownwood",
+   "State": "Texas",
+   "Region": "Mid South",
+   "Conference": "American Southwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 105,
+   "School": "Huntingdon College",
+   "Nickname": "Hawks",
+   "City": "Montgomery",
+   "State": "Alabama",
+   "Region": "South East",
+   "Conference": "USA South Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 106,
+   "School": "Husson University",
+   "Nickname": "Eagles",
+   "City": "Bangor",
+   "State": "Maine",
+   "Region": "New England",
+   "Conference": "Eastern Collegiate Football Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 107,
+   "School": "Illinois Wesleyan University",
+   "Nickname": "Titans",
+   "City": "Bloomington",
+   "State": "Illinois",
+   "Region": "Great Lakes",
+   "Conference": "College Conference of Illinois and Wisc",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 108,
+   "School": "Illinois College",
+   "Nickname": "Blueboys",
+   "City": "Jacksonville",
+   "State": "Illinois",
+   "Region": "Great Lakes",
+   "Conference": "Midwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 109,
+   "School": "Iowa Wesleyan University",
+   "Nickname": "Tigers",
+   "City": "Mount Pleasant",
+   "State": "Iowa",
+   "Region": "Mid West",
+   "Conference": "Upper Midwest Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 110,
+   "School": "Ithaca College",
+   "Nickname": "Bombers",
+   "City": "Ithaca",
+   "State": "New York",
+   "Region": "North East",
+   "Conference": "Empire Eight",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 111,
+   "School": "John Carroll University",
+   "Nickname": "Blue Streaks",
+   "City": "University Heights",
+   "State": "Ohio",
+   "Region": "Great Lakes",
+   "Conference": "Ohio Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 112,
+   "School": "Johns Hopkins University",
+   "Nickname": "Bluejays",
+   "City": "Baltimore",
+   "State": "Maryland",
+   "Region": "North East",
+   "Conference": "Centennial Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 113,
+   "School": "Juniata College",
+   "Nickname": "Eagles",
+   "City": "Huntingdon",
+   "State": "Pennsylvania",
+   "Region": "North East",
+   "Conference": "Centennial Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 114,
+   "School": "Kalamazoo College",
+   "Nickname": "Hornets",
+   "City": "Kalamazoo",
+   "State": "Michigan",
+   "Region": "Great Lakes",
+   "Conference": "Michigan Intercollegiate Athletic Assoc",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 115,
+   "School": "Kean University",
+   "Nickname": "Cougars",
+   "City": "Union",
+   "State": "New Jersey",
+   "Region": "North East",
+   "Conference": "New Jersey Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 116,
+   "School": "Kenyon College",
+   "Nickname": "Lords",
+   "City": "Gambier",
+   "State": "Ohio",
+   "Region": "Great Lakes",
+   "Conference": "North Coast Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 117,
+   "School": "King's College - Pennsylvania",
+   "Nickname": "Monarchs",
+   "City": "Wilkes-Barre",
+   "State": "Pennsylvania",
+   "Region": "North East",
+   "Conference": "Division III Independents",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 118,
+   "School": "Knox College",
+   "Nickname": "Prairie Fire",
+   "City": "Galesburg",
+   "State": "Illinois",
+   "Region": "Great Lakes",
+   "Conference": "Midwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 119,
+   "School": "University of La Verne",
+   "Nickname": "Leopards",
+   "City": "La Verne",
+   "State": "California",
+   "Region": "West Coast",
+   "Conference": "Southern California Intercoll Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 120,
+   "School": "LaGrange College",
+   "Nickname": "Panthers",
+   "City": "LaGrange",
+   "State": "Georgia",
+   "Region": "South East",
+   "Conference": "USA South Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 121,
+   "School": "Lake Forest College",
+   "Nickname": "Foresters",
+   "City": "Lake Forest",
+   "State": "Illinois",
+   "Region": "Great Lakes",
+   "Conference": "Midwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 122,
+   "School": "Lakeland University",
+   "Nickname": "Muskies",
+   "City": "Plymouth",
+   "State": "Wisconsin",
+   "Region": "Great Lakes",
+   "Conference": "Northern Athletics Collegiate Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 123,
+   "School": "Lawrence University",
+   "Nickname": "Vikings",
+   "City": "Appleton",
+   "State": "Wisconsin",
+   "Region": "Great Lakes",
+   "Conference": "Midwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 124,
+   "School": "Lebanon Valley College",
+   "Nickname": "Flying Dutchmen",
+   "City": "Annville",
+   "State": "Pennsylvania",
+   "Region": "North East",
+   "Conference": "Middle Atlantic States Athletic Corporation",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 125,
+   "School": "Lewis & Clark College",
+   "Nickname": "Pioneers",
+   "City": "Portland",
+   "State": "Oregon",
+   "Region": "West Coast",
+   "Conference": "Northwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 126,
+   "School": "Linfield College",
+   "Nickname": "Wildcats",
+   "City": "McMinnville",
+   "State": "Oregon",
+   "Region": "West Coast",
+   "Conference": "Northwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 127,
+   "School": "Loras College",
+   "Nickname": "Duhawks",
+   "City": "Dubuque",
+   "State": "Iowa",
+   "Region": "Mid West",
+   "Conference": "Iowa Intercollegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 128,
+   "School": "Louisiana College",
+   "Nickname": "Wildcats",
+   "City": "Pineville",
+   "State": "Louisana",
+   "Region": "Mid South",
+   "Conference": "American Southwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 129,
+   "School": "Luther College",
+   "Nickname": "Norse",
+   "City": "Decorah",
+   "State": "Iowa",
+   "Region": "Mid West",
+   "Conference": "Iowa Intercollegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 130,
+   "School": "Martin Luther College",
+   "Nickname": "Knights",
+   "City": "New Ulm",
+   "State": "Minnesota",
+   "Region": "Mid West",
+   "Conference": "Upper Midwest Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 131,
+   "School": "Lycoming College",
+   "Nickname": "Warriors",
+   "City": "Williamsport",
+   "State": "Pennsylvania",
+   "Region": "North East",
+   "Conference": "Middle Atlantic States Athletic Corporation",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 132,
+   "School": "University of Mary Hardin-Baylor",
+   "Nickname": "Crusaders",
+   "City": "Belton",
+   "State": "Texas",
+   "Region": "Mid South",
+   "Conference": "American Southwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 133,
+   "School": "University of Massachusetts - Dartmouth",
+   "Nickname": "Corsairs",
+   "City": "North Dartmouth",
+   "State": "Massachusetts",
+   "Region": "New England",
+   "Conference": "Massachusetts State College Athletic Assoc",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 134,
+   "School": "Massachusetts Maritime Academy",
+   "Nickname": "Buccaneers",
+   "City": "Buzzards Bay",
+   "State": "Massachusetts",
+   "Region": "New England",
+   "Conference": "New England Football Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 135,
+   "School": "Macalester College",
+   "Nickname": "Scots",
+   "City": "Saint Paul",
+   "State": "Minnesota",
+   "Region": "Mid West",
+   "Conference": "Midwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 136,
+   "School": "MacMurray College",
+   "Nickname": "Highlanders",
+   "City": "Jacksonville",
+   "State": "Illinois",
+   "Region": "Great Lakes",
+   "Conference": "Upper Midwest Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 137,
+   "School": "Manchester University",
+   "Nickname": "Spartans",
+   "City": "North Manchester",
+   "State": "Indiana",
+   "Region": "Great Lakes",
+   "Conference": "Heartland Collegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 138,
+   "School": "Marietta College",
+   "Nickname": "Pioneers",
+   "City": "Marietta",
+   "State": "Ohio",
+   "Region": "Great Lakes",
+   "Conference": "Ohio Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 139,
+   "School": "Maryville College",
+   "Nickname": "Scots",
+   "City": "Maryville",
+   "State": "Tennessee",
+   "Region": "Mid East",
+   "Conference": "USA South Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 140,
+   "School": "McDaniel College",
+   "Nickname": "Green Terror",
+   "City": "Westminster",
+   "State": "Maryland",
+   "Region": "North East",
+   "Conference": "Centennial Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 141,
+   "School": "McMurry University",
+   "Nickname": "War Hawks",
+   "City": "Abilene",
+   "State": "Texas",
+   "Region": "Mid South",
+   "Conference": "American Southwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 142,
+   "School": "Maine Maritime Academy",
+   "Nickname": "Mariners",
+   "City": "Castine",
+   "State": "Maine",
+   "Region": "New England",
+   "Conference": "New England Football Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 143,
+   "School": "United States Merchant Marine Academy",
+   "Nickname": "Mariners",
+   "City": "Kings Point",
+   "State": "New York",
+   "Region": "North East",
+   "Conference": "Upstate Collegiate Athletic Association",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 144,
+   "School": "Methodist University",
+   "Nickname": "Monarchs",
+   "City": "Fayetteville",
+   "State": "North Carolina",
+   "Region": "Mid East",
+   "Conference": "USA South Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 145,
+   "School": "Middlebury College",
+   "Nickname": "Panthers",
+   "City": "Middlebury",
+   "State": "Vermont",
+   "Region": "New England",
+   "Conference": "New England Small College Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 146,
+   "School": "Millikin University",
+   "Nickname": "Big Blue",
+   "City": "Decatur",
+   "State": "Illinois",
+   "Region": "Great Lakes",
+   "Conference": "College Conference of Illinois and Wisc",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 147,
+   "School": "Millsaps College",
+   "Nickname": "Majors",
+   "City": "Jackson",
+   "State": "Mississippi",
+   "Region": "Mid South",
+   "Conference": "Southern Athletic Association",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 148,
+   "School": "Misericordia University",
+   "Nickname": "Cougars",
+   "City": "Dallas",
+   "State": "Pennsylvania",
+   "Region": "North East",
+   "Conference": "Middle Atlantic States Athletic Corporation",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 149,
+   "School": "Massachusetts Institute of Technology - MIT",
+   "Nickname": "Engineers",
+   "City": "Cambridge",
+   "State": "Massachusetts",
+   "Region": "New England",
+   "Conference": "New England Football Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 150,
+   "School": "University of Minnesota - Morris",
+   "Nickname": "Cougars",
+   "City": "Morris",
+   "State": "Minnesota",
+   "Region": "Mid West",
+   "Conference": "Upper Midwest Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 151,
+   "School": "Monmouth College",
+   "Nickname": "Scots",
+   "City": "Monmouth",
+   "State": "Illinois",
+   "Region": "Great Lakes",
+   "Conference": "Midwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 152,
+   "School": "Montclair State University",
+   "Nickname": "Red Hawks",
+   "City": "Montclair",
+   "State": "New Jersey",
+   "Region": "North East",
+   "Conference": "New Jersey Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 153,
+   "School": "Moravian College",
+   "Nickname": "Greyhounds",
+   "City": "Bethlehem",
+   "State": "Pennsylvania",
+   "Region": "North East",
+   "Conference": "Centennial Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 154,
+   "School": "Morrisville State College",
+   "Nickname": "Mustangs",
+   "City": "Morrisville",
+   "State": "New York",
+   "Region": "North East",
+   "Conference": "Empire Eight",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 155,
+   "School": "Mount St. Joseph University",
+   "Nickname": "Lions",
+   "City": "Cincinnati",
+   "State": "Ohio",
+   "Region": "Great Lakes",
+   "Conference": "Heartland Collegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 156,
+   "School": "University of Mount Union",
+   "Nickname": "Purple Raiders",
+   "City": "Alliance",
+   "State": "Ohio",
+   "Region": "Great Lakes",
+   "Conference": "Ohio Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 157,
+   "School": "Muhlenberg College",
+   "Nickname": "Mules",
+   "City": "Allentown",
+   "State": "Pennsylvania",
+   "Region": "North East",
+   "Conference": "Centennial Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 158,
+   "School": "Muskingum University",
+   "Nickname": "Muskies",
+   "City": "New Concord",
+   "State": "Ohio",
+   "Region": "Great Lakes",
+   "Conference": "Ohio Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 159,
+   "School": "North Central College",
+   "Nickname": "Cardinals",
+   "City": "Naperville",
+   "State": "Illinois",
+   "Region": "Great Lakes",
+   "Conference": "College Conference of Illinois and Wisc",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 160,
+   "School": "North Carolina Wesleyan College",
+   "Nickname": "Battling Bishops",
+   "City": "Rocky Mount",
+   "State": "North Carolina",
+   "Region": "Mid East",
+   "Conference": "USA South Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 161,
+   "School": "Nebraska Wesleyan University",
+   "Nickname": "Prairie Wolves",
+   "City": "Lincoln",
+   "State": "Nebraska",
+   "Region": "Mid West",
+   "Conference": "Iowa Intercollegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 162,
+   "School": "Nichols College",
+   "Nickname": "Bison",
+   "City": "Dudley",
+   "State": "Massachusetts",
+   "Region": "New England",
+   "Conference": "New England Football Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 163,
+   "School": "North Park University",
+   "Nickname": "Vikings",
+   "City": "Chicago",
+   "State": "Illinois",
+   "Region": "Great Lakes",
+   "Conference": "College Conference of Illinois and Wisc",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 164,
+   "School": "University of Northwestern - St. Paul",
+   "Nickname": "Eagles",
+   "City": "Saint Paul",
+   "State": "Minnesota",
+   "Region": "Mid West",
+   "Conference": "Upper Midwest Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 165,
+   "School": "Norwich University",
+   "Nickname": "Cadets",
+   "City": "Northfield",
+   "State": "Vermont",
+   "Region": "New England",
+   "Conference": "Eastern Collegiate Football Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 166,
+   "School": "SUNY Maritime College",
+   "Nickname": "Privateers",
+   "City": "Throggs Neck",
+   "State": "New York",
+   "Region": "North East",
+   "Conference": "Eastern Collegiate Football Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 167,
+   "School": "Oberlin College",
+   "Nickname": "Yeomen",
+   "City": "Oberlin",
+   "State": "Ohio",
+   "Region": "Great Lakes",
+   "Conference": "North Coast Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 168,
+   "School": "Occidental College",
+   "Nickname": "Tigers",
+   "City": "Los Angeles",
+   "State": "California",
+   "Region": "West Coast",
+   "Conference": "Southern California Intercoll Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 169,
+   "School": "Ohio Northern University",
+   "Nickname": "Polar Bears",
+   "City": "Ada",
+   "State": "Ohio",
+   "Region": "Great Lakes",
+   "Conference": "Ohio Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 170,
+   "School": "Ohio Wesleyan University",
+   "Nickname": "Battling Bishops",
+   "City": "Delaware",
+   "State": "Ohio",
+   "Region": "Great Lakes",
+   "Conference": "North Coast Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 171,
+   "School": "Olivet College",
+   "Nickname": "Comets",
+   "City": "Olivet",
+   "State": "Michigan",
+   "Region": "Great Lakes",
+   "Conference": "Michigan Intercollegiate Athletic Assoc",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 172,
+   "School": "Otterbein University",
+   "Nickname": "Cardinals",
+   "City": "Westerville",
+   "State": "Ohio",
+   "Region": "Great Lakes",
+   "Conference": "Ohio Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 173,
+   "School": "Pacific Lutheran University",
+   "Nickname": "Lutes",
+   "City": "Tacoma",
+   "State": "Washington",
+   "Region": "West Coast",
+   "Conference": "Northwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 174,
+   "School": "Pacific University",
+   "Nickname": "Boxers",
+   "City": "Forest Grove",
+   "State": "Oregon",
+   "Region": "West Coast",
+   "Conference": "Northwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 175,
+   "School": "Plymouth State University",
+   "Nickname": "Panthers",
+   "City": "Plymouth",
+   "State": "New Hampshire",
+   "Region": "New England",
+   "Conference": "Massachusetts State College Athletic Assoc",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 176,
+   "School": "Pomona-Pitzer Colleges",
+   "Nickname": "Sagehens",
+   "City": "Claremont",
+   "State": "California",
+   "Region": "West Coast",
+   "Conference": "Southern California Intercoll Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 177,
+   "School": "University of Puget Sound",
+   "Nickname": "Loggers",
+   "City": "Tacoma",
+   "State": "Washington",
+   "Region": "West Coast",
+   "Conference": "Northwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 178,
+   "School": "Randolph-Macon College",
+   "Nickname": "Yellow Jackets",
+   "City": "Ashland",
+   "State": "Virginia",
+   "Region": "Mid East",
+   "Conference": "Old Dominion Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 179,
+   "School": "University of Redlands",
+   "Nickname": "Bulldogs",
+   "City": "Redlands",
+   "State": "California",
+   "Region": "West Coast",
+   "Conference": "Southern California Intercoll Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 180,
+   "School": "Rensselaer Polytechnic Institute - RPI",
+   "Nickname": "Engineers",
+   "City": "Troy",
+   "State": "New York",
+   "Region": "North East",
+   "Conference": "Liberty League",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 181,
+   "School": "Rhodes College",
+   "Nickname": "Lynx",
+   "City": "Memphis",
+   "State": "Tennessee",
+   "Region": "Mid East",
+   "Conference": "Southern Athletic Association",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 182,
+   "School": "Ripon College",
+   "Nickname": "Red Hawks",
+   "City": "Ripon",
+   "State": "Wisconsin",
+   "Region": "Great Lakes",
+   "Conference": "Midwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 183,
+   "School": "University of Rochester",
+   "Nickname": "Yellow Jackets",
+   "City": "Rochester",
+   "State": "New York",
+   "Region": "North East",
+   "Conference": "University Athletic Association",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 184,
+   "School": "Rockford University",
+   "Nickname": "Regents",
+   "City": "Rockford",
+   "State": "Illinois",
+   "Region": "Great Lakes",
+   "Conference": "Northern Athletics Collegiate Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 185,
+   "School": "Rose-Hulman Institute of Technology",
+   "Nickname": "Engineers",
+   "City": "Terre Haute",
+   "State": "Indiana",
+   "Region": "Great Lakes",
+   "Conference": "Heartland Collegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 186,
+   "School": "Rowan University",
+   "Nickname": "Profs",
+   "City": "Glassboro",
+   "State": "New Jersey",
+   "Region": "North East",
+   "Conference": "New Jersey Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 187,
+   "School": "Southern Virginia University",
+   "Nickname": "Knights",
+   "City": "Buena Vista",
+   "State": "Virginia",
+   "Region": "Mid East",
+   "Conference": "Capital Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 188,
+   "School": "Salisbury University",
+   "Nickname": "Sea Gulls",
+   "City": "Salisbury",
+   "State": "Maryland",
+   "Region": "North East",
+   "Conference": "Empire Eight",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 189,
+   "School": "Salve Regina University",
+   "Nickname": "Seahawks",
+   "City": "Newport",
+   "State": "Rhode Island",
+   "Region": "New England",
+   "Conference": "New England Football Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 190,
+   "School": "Sewanee - The University of the South",
+   "Nickname": "Tigers",
+   "City": "Sewanee",
+   "State": "Tennessee",
+   "Region": "Mid East",
+   "Conference": "Southern Athletic Association",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 191,
+   "School": "Shenandoah University",
+   "Nickname": "Hornets",
+   "City": "Winchester",
+   "State": "Virginia",
+   "Region": "Mid East",
+   "Conference": "Old Dominion Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 192,
+   "School": "Simpson College",
+   "Nickname": "Storm",
+   "City": "Indianola",
+   "State": "Iowa",
+   "Region": "Mid West",
+   "Conference": "Iowa Intercollegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 193,
+   "School": "Springfield College",
+   "Nickname": "Pride",
+   "City": "Springfield",
+   "State": "Massachusetts",
+   "Region": "New England",
+   "Conference": "Upstate Collegiate Athletic Association",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 194,
+   "School": "St. John Fisher College",
+   "Nickname": "Cardinals",
+   "City": "Rochester",
+   "State": "New York",
+   "Region": "North East",
+   "Conference": "Empire Eight",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 195,
+   "School": "Saint John's University - Minnesota",
+   "Nickname": "Johnnies",
+   "City": "Collegeville",
+   "State": "Minnesota",
+   "Region": "Mid West",
+   "Conference": "Minnesota Intercollegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 196,
+   "School": "St. Lawrence University",
+   "Nickname": "Saints",
+   "City": "Canton",
+   "State": "New York",
+   "Region": "North East",
+   "Conference": "Upstate Collegiate Athletic Association",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 197,
+   "School": "St. Norbert College",
+   "Nickname": "Green Knights",
+   "City": "De Pere",
+   "State": "Wisconsin",
+   "Region": "Great Lakes",
+   "Conference": "Midwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 198,
+   "School": "St. Olaf College",
+   "Nickname": "Oles",
+   "City": "Northfield",
+   "State": "Minnesota",
+   "Region": "Mid West",
+   "Conference": "Minnesota Intercollegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 199,
+   "School": "The College of St. Scholastica",
+   "Nickname": "Saints",
+   "City": "Duluth",
+   "State": "Minnesota",
+   "Region": "Mid West",
+   "Conference": "Upper Midwest Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 200,
+   "School": "University of St. Thomas - Minnesota",
+   "Nickname": "Tommies",
+   "City": "Saint Paul",
+   "State": "Minnesota",
+   "Region": "Mid West",
+   "Conference": "Minnesota Intercollegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 201,
+   "School": "Saint Vincent College - Pennsylvania",
+   "Nickname": "Bearcats",
+   "City": "Latrobe",
+   "State": "Pennsylvania",
+   "Region": "North East",
+   "Conference": "Presidents' Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 202,
+   "School": "Stevenson University",
+   "Nickname": "Mustangs",
+   "City": "Stevenson",
+   "State": "Maryland",
+   "Region": "North East",
+   "Conference": "Commonwealth Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 203,
+   "School": "Sul Ross State University",
+   "Nickname": "Lobos",
+   "City": "Alpine",
+   "State": "Texas",
+   "Region": "Mid South",
+   "Conference": "American Southwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 204,
+   "School": "Susquehanna University",
+   "Nickname": "River Hawks",
+   "City": "Selinsgrove",
+   "State": "Pennsylvania",
+   "Region": "North East",
+   "Conference": "Centennial Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 205,
+   "School": "Southwestern University",
+   "Nickname": "Pirates",
+   "City": "Georgetown",
+   "State": "Texas",
+   "Region": "Mid South",
+   "Conference": "Southern Collegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 206,
+   "School": "Thiel College",
+   "Nickname": "Tomcats",
+   "City": "Greenville",
+   "State": "Pennsylvania",
+   "Region": "North East",
+   "Conference": "Presidents' Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 207,
+   "School": "Thomas More College",
+   "Nickname": "Saints",
+   "City": "Crestview Hills",
+   "State": "Kentucky",
+   "Region": "Mid East",
+   "Conference": "American Collegiate Athletic Conference\tNCAA III",
+   "Division": ""
+ },
+ {
+   "ID": 208,
+   "School": "Trine University",
+   "Nickname": "Thunder\tAngola",
+   "City": "Indiana",
+   "State": "Great Lakes",
+   "Region": "Michigan Intercollegiate Athletic Assoc",
+   "Conference": "NCAA III",
+   "Division": ""
+ },
+ {
+   "ID": 209,
+   "School": "Trinity College - Connecticut",
+   "Nickname": "Bantams",
+   "City": "Hartford",
+   "State": "Connecticut",
+   "Region": "New England",
+   "Conference": "New England Small College Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 210,
+   "School": "Trinity University - Texas",
+   "Nickname": "Tigers",
+   "City": "San Antonio",
+   "State": "Texas",
+   "Region": "Mid South",
+   "Conference": "Southern Collegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 211,
+   "School": "Tufts University",
+   "Nickname": "Jumbos",
+   "City": "Medford",
+   "State": "Massachusetts",
+   "Region": "New England",
+   "Conference": "New England Small College Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 212,
+   "School": "Texas Lutheran University",
+   "Nickname": "Bulldogs",
+   "City": "Seguin",
+   "State": "Texas",
+   "Region": "Mid South",
+   "Conference": "Southern Collegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 213,
+   "School": "University of New England",
+   "Nickname": "Nor'easters",
+   "City": "Biddeford",
+   "State": "Maine",
+   "Region": "New England",
+   "Conference": "Commonwealth Coast Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 214,
+   "School": "Union College - New York",
+   "Nickname": "Dutchmen",
+   "City": "Schenectady",
+   "State": "New York",
+   "Region": "North East",
+   "Conference": "Upstate Collegiate Athletic Association",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 215,
+   "School": "Ursinus College",
+   "Nickname": "Bears",
+   "City": "Collegeville",
+   "State": "Pennsylvania",
+   "Region": "North East",
+   "Conference": "Centennial Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 216,
+   "School": "Utica College",
+   "Nickname": "Pioneers",
+   "City": "Utica",
+   "State": "New York",
+   "Region": "North East",
+   "Conference": "Empire Eight",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 217,
+   "School": "Western Connecticut State University",
+   "Nickname": "Colonials",
+   "City": "Danbury",
+   "State": "Connecticut",
+   "Region": "New England",
+   "Conference": "Freedom Football Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 218,
+   "School": "Western New England University",
+   "Nickname": "Golden Bears",
+   "City": "Springfield",
+   "State": "Massachusetts",
+   "Region": "New England",
+   "Conference": "New England Football Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 219,
+   "School": "Wabash College",
+   "Nickname": "Little Giants",
+   "City": "Crawfordsville",
+   "State": "Indiana",
+   "Region": "Great Lakes",
+   "Conference": "North Coast Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 220,
+   "School": "Wartburg College",
+   "Nickname": "Knights",
+   "City": "Waverly",
+   "State": "Iowa",
+   "Region": "Mid West",
+   "Conference": "Iowa Intercollegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 221,
+   "School": "Washington & Jefferson College",
+   "Nickname": "Presidents",
+   "City": "Washington",
+   "State": "Pennsylvania",
+   "Region": "North East",
+   "Conference": "Presidents' Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 222,
+   "School": "Washington & Lee University",
+   "Nickname": "Generals",
+   "City": "Lexington",
+   "State": "Virginia",
+   "Region": "Mid East",
+   "Conference": "Old Dominion Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 223,
+   "School": "Washington University in St. Louis",
+   "Nickname": "Bears",
+   "City": "Saint Louis",
+   "State": "Missouri",
+   "Region": "Mid West",
+   "Conference": "University Athletic Association",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 224,
+   "School": "Waynesburg University",
+   "Nickname": "Yellow Jackets",
+   "City": "Waynesburg",
+   "State": "Pennsylvania",
+   "Region": "North East",
+   "Conference": "Presidents' Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 225,
+   "School": "Wesley College",
+   "Nickname": "Wolverines",
+   "City": "Dover",
+   "State": "Delaware",
+   "Region": "North East",
+   "Conference": "Capital Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 226,
+   "School": "Wesleyan University",
+   "Nickname": "Cardinals",
+   "City": "Middletown",
+   "State": "Connecticut",
+   "Region": "New England",
+   "Conference": "New England Small College Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 227,
+   "School": "Westfield State University",
+   "Nickname": "Owls",
+   "City": "Westfield",
+   "State": "Massachusetts",
+   "Region": "New England",
+   "Conference": "New England Football Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 228,
+   "School": "Westminster College - Missouri",
+   "Nickname": "Blue Jays",
+   "City": "Fulton",
+   "State": "Missouri",
+   "Region": "Mid West",
+   "Conference": "Upper Midwest Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 229,
+   "School": "Westminster College - Pennsylvania",
+   "Nickname": "Titans",
+   "City": "New Wilmington",
+   "State": "Pennsylvania",
+   "Region": "North East",
+   "Conference": "Presidents' Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 230,
+   "School": "Wheaton College - Illinois",
+   "Nickname": "Thunder",
+   "City": "Wheaton",
+   "State": "Illinois",
+   "Region": "Great Lakes",
+   "Conference": "College Conference of Illinois and Wisc",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 231,
+   "School": "Whittier College",
+   "Nickname": "Poets",
+   "City": "Whittier",
+   "State": "California",
+   "Region": "West Coast",
+   "Conference": "Southern California Intercoll Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 232,
+   "School": "Whitworth University",
+   "Nickname": "Pirates",
+   "City": "Spokane",
+   "State": "Washington",
+   "Region": "West Coast",
+   "Conference": "Northwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 233,
+   "School": "University of Wisconsin - Eau Claire",
+   "Nickname": "Blugolds",
+   "City": "Eau Claire",
+   "State": "Wisconsin",
+   "Region": "Great Lakes",
+   "Conference": "Wisconsin Intercollegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 234,
+   "School": "University of Wisconsin - La Crosse",
+   "Nickname": "Eagles",
+   "City": "La Crosse",
+   "State": "Wisconsin",
+   "Region": "Great Lakes",
+   "Conference": "Wisconsin Intercollegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 235,
+   "School": "Wisconsin Lutheran College",
+   "Nickname": "Warriors",
+   "City": "Milwaukee",
+   "State": "Wisconsin",
+   "Region": "Great Lakes",
+   "Conference": "Northern Athletics Collegiate Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 236,
+   "School": "University of Wisconsin - Oshkosh",
+   "Nickname": "Titans",
+   "City": "Oshkosh",
+   "State": "Wisconsin",
+   "Region": "Great Lakes",
+   "Conference": "Wisconsin Intercollegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 237,
+   "School": "University of Wisconsin - Platteville",
+   "Nickname": "Pioneers",
+   "City": "Platteville",
+   "State": "Wisconsin",
+   "Region": "Great Lakes",
+   "Conference": "Wisconsin Intercollegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 238,
+   "School": "University of Wisconsin - River Falls",
+   "Nickname": "Falcons",
+   "City": "River Falls",
+   "State": "Wisconsin",
+   "Region": "Great Lakes",
+   "Conference": "Wisconsin Intercollegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 239,
+   "School": "University of Wisconsin - Stevens Point",
+   "Nickname": "Pointers",
+   "City": "Stevens Point",
+   "State": "Wisconsin",
+   "Region": "Great Lakes",
+   "Conference": "Wisconsin Intercollegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 240,
+   "School": "University of Wisconsin - Stout",
+   "Nickname": "Blue Devils",
+   "City": "Menomonie",
+   "State": "Wisconsin",
+   "Region": "Great Lakes",
+   "Conference": "Wisconsin Intercollegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 241,
+   "School": "University of Wisconsin - Whitewater",
+   "Nickname": "Warhawks",
+   "City": "Whitewater",
+   "State": "Wisconsin",
+   "Region": "Great Lakes",
+   "Conference": "Wisconsin Intercollegiate Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 242,
+   "School": "Widener University",
+   "Nickname": "Pride",
+   "City": "Chester",
+   "State": "Pennsylvania",
+   "Region": "North East",
+   "Conference": "Middle Atlantic States Athletic Corporation",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 243,
+   "School": "Wilkes University",
+   "Nickname": "Colonels",
+   "City": "Wilkes-Barre",
+   "State": "Pennsylvania",
+   "Region": "North East",
+   "Conference": "Middle Atlantic States Athletic Corporation",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 244,
+   "School": "Willamette University",
+   "Nickname": "Bearcats",
+   "City": "Salem",
+   "State": "Oregon",
+   "Region": "West Coast",
+   "Conference": "Northwest Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 245,
+   "School": "Williams College",
+   "Nickname": "Ephs",
+   "City": "Williamstown",
+   "State": "Massachusetts",
+   "Region": "New England",
+   "Conference": "New England Small College Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 246,
+   "School": "Wilmington College",
+   "Nickname": "Quakers",
+   "City": "Wilmington",
+   "State": "Ohio",
+   "Region": "Great Lakes",
+   "Conference": "Ohio Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 247,
+   "School": "Wittenberg University",
+   "Nickname": "Tigers",
+   "City": "Springfield",
+   "State": "Ohio",
+   "Region": "Great Lakes",
+   "Conference": "North Coast Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 248,
+   "School": "William Paterson University of New Jersey",
+   "Nickname": "Pioneers",
+   "City": "Wayne",
+   "State": "New Jersey",
+   "Region": "North East",
+   "Conference": "New Jersey Athletic Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 249,
+   "School": "College of Wooster \tScots",
+   "Nickname": "Wooster",
+   "City": "Ohio",
+   "State": "Great Lakes",
+   "Region": "North Coast Athletic Conference",
+   "Conference": "NCAA III",
+   "Division": ""
+ },
+ {
+   "ID": 250,
+   "School": "Worcester State University",
+   "Nickname": "Lancers",
+   "City": "Worcester",
+   "State": "Massachusetts",
+   "Region": "New England",
+   "Conference": "New England Football Conference",
+   "Division": "NCAA III"
+ },
+ {
+   "ID": 251,
+   "School": "Worcester Polytechnic Institute",
+   "Nickname": "Engineers",
+   "City": "Worcester",
+   "State": "Massachusetts",
+   "Region": "New England",
+   "Conference": "Upstate Collegiate Athletic Association",
+   "Division": "NCAA III"
+ }
+]
